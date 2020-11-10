@@ -1,0 +1,19 @@
+[package]
+name = "ezrest"
+version = "0.0.1-beta3"
+authors = ["Gus <gus.theunissen142@gmail.com>"]
+edition = "2018"
+license = "gnu"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rocket = "0.4.6"
+
+[dependencies.yansi]
+version = "0.5.0"
+[build-dependencies.version_check]
+version = "0.9.2"
+
+[build-dependencies.yansi]
+version = "0.5.0"
