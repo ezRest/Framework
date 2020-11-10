@@ -31,16 +31,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d770c389-9149-4a05-96a4-406356c919c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Framework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/mod.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/route/api.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/route/mod.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +98,7 @@
       <workItem from="1604565077525" duration="1963000" />
       <workItem from="1604847600690" duration="8482000" />
       <workItem from="1605003465282" duration="4561000" />
-      <workItem from="1605011359944" duration="278000" />
+      <workItem from="1605011359944" duration="413000" />
     </task>
     <servers />
   </component>
